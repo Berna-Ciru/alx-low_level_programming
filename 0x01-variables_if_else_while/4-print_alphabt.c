@@ -14,7 +14,7 @@ int main(void)
 
 	for (meo = 'a'; meo <= 'z'; meo++)
 	{
-		if (e != 'e' && q != 'q')
+		if (meo != e && meo != q)
 			putchar(meo);
 	}
 
