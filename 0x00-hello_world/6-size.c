@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - third c program, printing size
- * Return: 0
+ * main - Entry
+ * Return: Always 0
  */
 int main(void)
 {
