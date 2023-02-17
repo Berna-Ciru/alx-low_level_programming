@@ -6,12 +6,12 @@
  */
 int main(void)
 {
-	char la
+	char meo
 
-	for (la = 'a'; la <= 'z'; la++)
+	for (meo = 'a'; meo <= 'z'; meo++)
 	{
-		if (la != 'e' && la != 'q')
-			putchar(la);
+		if (meo != 'e' && meo != 'q')
+			putchar(meo);
 	}
 	putchar('\n');
 	return (0);
