@@ -24,7 +24,7 @@ void print_triangle(int size)
 			}
 			for (j = 0; j <= g; j++)
 			{
-				_putcha(35);
+				_putchar(35);
 			}
 			_putchar('\n');
 		}
