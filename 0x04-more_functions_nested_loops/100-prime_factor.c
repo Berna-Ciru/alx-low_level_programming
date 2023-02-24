@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include "math.h"
 
 /**
  * main - prints the largest prime factor of 612852475143
@@ -19,6 +19,6 @@ int main(void)
 			naxf = number / x;
 		}
 	}
-	printf("%d\n", naxf);
+	printf("%ld\n", naxf);
 	return (0);
 }
